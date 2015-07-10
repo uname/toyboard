@@ -253,8 +253,7 @@ void setup()
 #endif
     initGame();
     
-    while(1)
-    {
+    while(1) {
         update();
     }
 }
