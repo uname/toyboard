@@ -4,6 +4,7 @@
 - 贪吃蛇(https://github.com/uname/toyboard/tree/master/snake)
 
 观看贪食蛇效果视频(http://v.youku.com/v_show/id_XMTI3NzI1MTkyNA==.html)
+观看Flappy Bird效果视频(http://v.youku.com/v_show/id_XMTI4MjYyMTg4OA==.html)
 
 
 ![](https://github.com/uname/toyboard/blob/master/snapshot.jpg)
